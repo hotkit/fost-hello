@@ -1,3 +1,4 @@
+project(fost-hello)
 cmake_minimum_required(VERSION 3.6)
 
 # These contain targets and functions needed elsewhere
